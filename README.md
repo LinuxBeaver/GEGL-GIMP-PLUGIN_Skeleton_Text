@@ -1,4 +1,7 @@
-Skeleton Text in Gimp
+**Skeleton Text in Gimp**
+
+Download binaries here.
+https://github.com/LinuxBeaver/Skeleton_Text_Gimp_Plugin/releases
 
 ![image preview](preview.png)
 
