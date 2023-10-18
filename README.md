@@ -61,6 +61,10 @@ Then build the same way you would on Linux:
 meson setup --buildtype=release build
 ninja -C build
 ```
+## Skeleton + my other plugin Custom Bevel
+Download Custom bevel here and chain them ( https://github.com/LinuxBeaver/GEGL-Custom-Bevel/releases )
+
+![image](https://github.com/LinuxBeaver/Skeleton_Text_Gimp_Plugin/assets/78667207/774a084d-7032-4120-b77a-8e090fd119ac)
 
 
 
